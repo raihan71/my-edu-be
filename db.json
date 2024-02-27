@@ -1,0 +1,24 @@
+{
+  "educations": [
+    {
+      "id": 2,
+      "schoolName": "abonku",
+      "degree": "testing abonku",
+      "fieldStudy": "VVo63HrHo2yLbgp9.jpeg",
+      "grade": "A",
+      "startYear": "2015",
+      "endYear": "2015",
+      "description": "apoteku"
+    },
+    {
+      "id": 3,
+      "schoolName": "abonku",
+      "degree": "testing abonku",
+      "fieldStudy": "VVo63HrHo2yLbgp9.jpeg",
+      "grade": "A",
+      "startYear": "2015",
+      "endYear": "2015",
+      "description": "apoteku"
+    }
+  ]
+}
